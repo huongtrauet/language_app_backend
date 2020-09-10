@@ -1,0 +1,9 @@
+development:
+  user_mysql: root
+  password_mysql: root
+  database_name: language_develop
+
+production:
+  user_mysql: language_app
+  password_mysql: language_2020
+  database_name: language_production
